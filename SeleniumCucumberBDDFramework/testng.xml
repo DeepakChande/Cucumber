@@ -8,4 +8,4 @@
       <class name="com.testautomation.TestRunner.TestRunner"/>
     </classes>
   </test> 
-</suite> <!-- Suite -->
+</suite> 
