@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="RolesandPermissions.EditRole"/>
+      <class name="homepage.HeaderElement"/>
+      <class name="RolesandPermissions.DuplicateRole"/>
+      <class name="searchresult.SearchKeyword"/>
+      <class name="plppage.Removefrmminicart"/>
+      <class name="RolesandPermissions.AddRole"/>
+      <class name="plppage.Addtowishlist"/>
+      <class name="requistionlist.CopyselectedOption"/>
+      <class name="requistionlist.DeleteRequistionList"/>
+      <class name="RewardPoint.SubscriptionPointExpiry"/>
+      <class name="requistionlist.AddtocartfrmRequisition"/>
+      <class name="requistionlist.RemoveOption"/>
+      <class name="requistionlist.ViewProductonRequisition"/>
+      <class name="shoppingcart.Updatecart"/>
+      <class name="Newsletter.SignupNewsletter"/>
+      <class name="homepage.SubscriptionSignup"/>
+      <class name="requistionlist.RenameRequisition"/>
+      <class name="CompanyUsers.DeleteUser"/>
+      <class name="homepage.LoginAccount"/>
+      <class name="plppage.Sorting"/>
+      <class name="requistionlist.EditQuanonRequisition"/>
+      <class name="requistionlist.RemovePdtfrmRequistion"/>
+      <class name="pdppage.Editcart"/>
+      <class name="pdppage.AddtoMinicart"/>
+      <class name="AccountDashboard.EditAccountInformation"/>
+      <class name="ExcelGenerator.Excelreport"/>
+      <class name="homepage.ApplyForDealerAccount"/>
+      <class name="AccountDashboard.RequisitionList"/>
+      <class name="plppage.ProductToRequistionList"/>
+      <class name="CompanyUsers.UserEdit"/>
+      <class name="pdppage.Productdetails"/>
+      <class name="RewardPoint.Subscriptionupdate"/>
+      <class name="plppage.Addtocart"/>
+      <class name="pdppage.ChangeQuantity"/>
+      <class name="emailgenerator.Email"/>
+      <class name="plppage.CartPagefrmMiniCart"/>
+      <class name="pdppage.FeaturedProduct"/>
+      <class name="requistionlist.MoveSelectedOption"/>
+      <class name="shoppingcart.MoveTowishlist"/>
+      <class name="RolesandPermissions.DeleteRole"/>
+      <class name="CheckoutPage.PlaceOrder"/>
+      <class name="shoppingcart.RemoveProduct"/>
+      <class name="searchresult.Sorting"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

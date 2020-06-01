@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <test name="Test(failed)" preserve-order="true">
+    <classes>
+      <class name="requistionlist.MoveSelectedOption">
+        <methods>
+          <include name="moveselectedoption"/>
+          <include name="Loginpage"/>
+        </methods>
+      </class> <!-- requistionlist.MoveSelectedOption -->
+      <class name="pdppage.Editcart">
+        <methods>
+          <include name="editcart"/>
+          <include name="Loginpage"/>
+        </methods>
+      </class> <!-- pdppage.Editcart -->
+      <class name="homepage.HeaderElement">
+        <methods>
+          <include name="Loginpage"/>
+        </methods>
+      </class> <!-- homepage.HeaderElement -->
+      <class name="pdppage.ChangeQuantity">
+        <methods>
+          <include name="Loginpage"/>
+        </methods>
+      </class> <!-- pdppage.ChangeQuantity -->
+      <class name="pdppage.Productdetails">
+        <methods>
+          <include name="Loginpage"/>
+        </methods>
+      </class> <!-- pdppage.Productdetails -->
+      <class name="RolesandPermissions.DuplicateRole">
+        <methods>
+          <include name="Loginpage"/>
+        </methods>
+      </class> <!-- RolesandPermissions.DuplicateRole -->
+      <class name="RolesandPermissions.DeleteRole">
+        <methods>
+          <include name="Loginpage"/>
+        </methods>
+      </class> <!-- RolesandPermissions.DeleteRole -->
+      <class name="plppage.Sorting">
+        <methods>
+          <include name="Loginpage"/>
+        </methods>
+      </class> <!-- plppage.Sorting -->
+      <class name="searchresult.Sorting">
+        <methods>
+          <include name="Loginpage"/>
+        </methods>
+      </class> <!-- searchresult.Sorting -->
+      <class name="requistionlist.RemoveOption">
+        <methods>
+          <include name="Loginpage"/>
+        </methods>
+      </class> <!-- requistionlist.RemoveOption -->
+      <class name="RolesandPermissions.EditRole">
+        <methods>
+          <include name="Loginpage"/>
+        </methods>
+      </class> <!-- RolesandPermissions.EditRole -->
+      <class name="shoppingcart.MoveTowishlist">
+        <methods>
+          <include name="Loginpage"/>
+        </methods>
+      </class> <!-- shoppingcart.MoveTowishlist -->
+      <class name="plppage.CartPagefrmMiniCart">
+        <methods>
+          <include name="Loginpage"/>
+        </methods>
+      </class> <!-- plppage.CartPagefrmMiniCart -->
+      <class name="pdppage.FeaturedProduct">
+        <methods>
+          <include name="Loginpage"/>
+        </methods>
+      </class> <!-- pdppage.FeaturedProduct -->
+      <class name="requistionlist.RemovePdtfrmRequistion">
+        <methods>
+          <include name="removeproductfrmrequistion"/>
+          <include name="Loginpage"/>
+        </methods>
+      </class> <!-- requistionlist.RemovePdtfrmRequistion -->
+      <class name="AccountDashboard.RequisitionList">
+        <methods>
+          <include name="Loginpage"/>
+        </methods>
+      </class> <!-- AccountDashboard.RequisitionList -->
+      <class name="requistionlist.ViewProductonRequisition">
+        <methods>
+          <include name="viewproductrequistion"/>
+          <include name="Loginpage"/>
+        </methods>
+      </class> <!-- requistionlist.ViewProductonRequisition -->
+      <class name="homepage.ApplyForDealerAccount">
+        <methods>
+          <include name="Loginpage"/>
+          <include name="applyfordealeraccount"/>
+        </methods>
+      </class> <!-- homepage.ApplyForDealerAccount -->
+      <class name="homepage.SubscriptionSignup">
+        <methods>
+          <include name="Loginpage"/>
+        </methods>
+      </class> <!-- homepage.SubscriptionSignup -->
+      <class name="CompanyUsers.UserEdit">
+        <methods>
+          <include name="Loginpage"/>
+        </methods>
+      </class> <!-- CompanyUsers.UserEdit -->
+      <class name="plppage.Addtowishlist">
+        <methods>
+          <include name="Loginpage"/>
+        </methods>
+      </class> <!-- plppage.Addtowishlist -->
+      <class name="RewardPoint.Subscriptionupdate">
+        <methods>
+          <include name="Loginpage"/>
+        </methods>
+      </class> <!-- RewardPoint.Subscriptionupdate -->
+      <class name="shoppingcart.Updatecart">
+        <methods>
+          <include name="Loginpage"/>
+        </methods>
+      </class> <!-- shoppingcart.Updatecart -->
+      <class name="homepage.LoginAccount">
+        <methods>
+          <include name="Loginpage"/>
+        </methods>
+      </class> <!-- homepage.LoginAccount -->
+      <class name="requistionlist.AddtocartfrmRequisition">
+        <methods>
+          <include name="addtocartfrmrequistionlist"/>
+          <include name="Loginpage"/>
+        </methods>
+      </class> <!-- requistionlist.AddtocartfrmRequisition -->
+      <class name="requistionlist.DeleteRequistionList">
+        <methods>
+          <include name="Loginpage"/>
+          <include name="deleterequistionlist"/>
+        </methods>
+      </class> <!-- requistionlist.DeleteRequistionList -->
+      <class name="Newsletter.SignupNewsletter">
+        <methods>
+          <include name="Loginpage"/>
+          <include name="signupnewsletternewsubscriber"/>
+        </methods>
+      </class> <!-- Newsletter.SignupNewsletter -->
+      <class name="plppage.Addtocart">
+        <methods>
+          <include name="Loginpage"/>
+        </methods>
+      </class> <!-- plppage.Addtocart -->
+      <class name="plppage.ProductToRequistionList">
+        <methods>
+          <include name="Loginpage"/>
+        </methods>
+      </class> <!-- plppage.ProductToRequistionList -->
+      <class name="requistionlist.EditQuanonRequisition">
+        <methods>
+          <include name="Loginpage"/>
+          <include name="editrequistionlist"/>
+        </methods>
+      </class> <!-- requistionlist.EditQuanonRequisition -->
+      <class name="RewardPoint.SubscriptionPointExpiry">
+        <methods>
+          <include name="Loginpage"/>
+        </methods>
+      </class> <!-- RewardPoint.SubscriptionPointExpiry -->
+      <class name="CheckoutPage.PlaceOrder">
+        <methods>
+          <include name="Loginpage"/>
+        </methods>
+      </class> <!-- CheckoutPage.PlaceOrder -->
+      <class name="requistionlist.CopyselectedOption">
+        <methods>
+          <include name="Loginpage"/>
+        </methods>
+      </class> <!-- requistionlist.CopyselectedOption -->
+      <class name="AccountDashboard.EditAccountInformation">
+        <methods>
+          <include name="Loginpage"/>
+        </methods>
+      </class> <!-- AccountDashboard.EditAccountInformation -->
+      <class name="CompanyUsers.DeleteUser">
+        <methods>
+          <include name="Loginpage"/>
+        </methods>
+      </class> <!-- CompanyUsers.DeleteUser -->
+      <class name="shoppingcart.RemoveProduct">
+        <methods>
+          <include name="Loginpage"/>
+        </methods>
+      </class> <!-- shoppingcart.RemoveProduct -->
+      <class name="pdppage.AddtoMinicart">
+        <methods>
+          <include name="Loginpage"/>
+        </methods>
+      </class> <!-- pdppage.AddtoMinicart -->
+      <class name="plppage.Removefrmminicart">
+        <methods>
+          <include name="Loginpage"/>
+        </methods>
+      </class> <!-- plppage.Removefrmminicart -->
+      <class name="requistionlist.RenameRequisition">
+        <methods>
+          <include name="Loginpage"/>
+          <include name="renamerequistionlist"/>
+        </methods>
+      </class> <!-- requistionlist.RenameRequisition -->
+      <class name="RolesandPermissions.AddRole">
+        <methods>
+          <include name="Loginpage"/>
+        </methods>
+      </class> <!-- RolesandPermissions.AddRole -->
+      <class name="searchresult.SearchKeyword">
+        <methods>
+          <include name="Loginpage"/>
+        </methods>
+      </class> <!-- searchresult.SearchKeyword -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
